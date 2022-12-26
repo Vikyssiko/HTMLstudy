@@ -1,0 +1,23 @@
+body {
+    width: 70%;
+    margin-left: 15%;
+}
+.header {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    margin-top: 1.5em;
+}
+h1 {
+    font-size: 32px;
+}
+table {
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid black;
+}
+figcaption {
+    font-style: italic;
+}
+.img {
+    float: right;
+}
